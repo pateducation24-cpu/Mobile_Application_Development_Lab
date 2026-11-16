@@ -1,0 +1,3 @@
+
+//inside application tag
+<activity android:name=".WelcomeActivity" />
